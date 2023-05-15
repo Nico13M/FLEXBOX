@@ -1,0 +1,10 @@
+:root {
+    --main: #9cb4c9bf;
+    --nav:#9cb4c9;
+    --footer:#0c3f75;
+    --header: #0c3f75;
+    --text:var(--header);
+    --text-2:#ffffff;
+
+}
+

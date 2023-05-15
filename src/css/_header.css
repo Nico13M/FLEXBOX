@@ -1,0 +1,35 @@
+header {
+  
+  min-height: 222px;
+  max-width: 1200px;
+  background-color: var(--header);
+  display: flex;
+  flex-direction: column;
+}
+
+.logo {
+  margin: auto;
+}
+.img-logo {
+  display: flex;
+  max-width: 250px;
+  align-self: center;
+}
+
+.title {
+  display: flex;
+  justify-content: center;
+  color: var(--text-2);
+  font-size: 32px;
+  margin-top: 0;
+  text-decoration: none;
+}
+
+.title a{
+  text-decoration: none;
+}
+
+
+a{
+  text-decoration: none;
+}
